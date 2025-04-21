@@ -154,7 +154,8 @@ main{
 
 /*Estilos de las tablas: INICIO*/
 
-.main-currency-table{
+.main-currency-table,
+.main-commissions-table{
     width: 70%;
     min-width: 235px;
     max-width: 500px;
