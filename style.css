@@ -536,3 +536,11 @@ main {
     scroll-snap-type: x proximity;
     gap: 20px;
 }
+
+
+
+@media (min-width: 640px){
+    .plans-container--slider{
+        overflow-x: hidden;
+    }
+}
